@@ -1,0 +1,1 @@
+Place your hero/background and collection images in assets/images (e.g., c1.jpg, c2.jpg, c3.jpg, l1.jpg..). A sample GLB can go in assets/models/ if you want to replace the Three.js placeholder.
